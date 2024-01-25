@@ -6,7 +6,7 @@ const db = require('../db')
 async function createData(req, res) {
   try {
     const newData = new data(req.body);
-    const savedData = await data.save();
+    const savedData = await newData.save();
     res.status(201).json(savedData);
   } catch (error) {
     res.status(400).json({ error: error.message });
@@ -39,9 +39,9 @@ async function getAllDataById(req, res) {
 
 
 async function updateAllDataById(req, res) {
-  const { newDataId } = req.params;
+  const { id } = req.params;
   try {
-    const updatedNewData = await data.findByIdAndUpdate(newDataId, req.body, { new: true });
+    const updatedNewData = await data.findByIdAndUpdate(id, req.body, { new: true });
     if (!updatedNewData) {
       return res.status(404).json({ error: 'New data not found' });
     }

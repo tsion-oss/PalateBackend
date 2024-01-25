@@ -9,7 +9,10 @@ async function createAllProduct(req, res) {
     const savedProduct = await newProduct.save();
     res.status(201).json(savedProduct);
   } catch (error) {
-    res.status(400).json({ error: error.message });
+    if (error.name === 'ValidationError') {
+      return res.status(400).json({ error: error.message });
+    }
+    res.status(500).json({ error: error.message });
   }
 }
 
@@ -39,9 +42,9 @@ async function getAllProductById(req, res) {
 
 
 async function updateAllProductById(req, res) {
-  const { newProductId } = req.params;
+  const { id } = req.params;
   try {
-    const updatedNewProduct = await all_product.findByIdAndUpdate(newProductId, req.body, { new: true });
+    const updatedNewProduct = await all_product.findByIdAndUpdate(id, req.body, { new: true });
     if (!updatedNewProduct) {
       return res.status(404).json({ error: 'New product not found' });
     }
