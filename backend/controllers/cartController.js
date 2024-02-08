@@ -41,7 +41,7 @@ async function getCartById(req, res) {
 async function updateCartById(req, res) {
   const { id } = req.params;
   try {
-    const updatedCart = await cart.findByIdAndUpdate(id, req.body, { new: true });
+    const updatedCart = await cart.findOneAndUpdate({ id: parseInt(id) }, req.body, { new: true });
     if (!updatedCart) {
       return res.status(404).json({ error: 'cart not found' });
     }

@@ -204,7 +204,7 @@ const all_productData = [
         name: "Boys Brushed-inside Joggers",
         category: "kid",
         image:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Ff6%2F10%2Ff61004f003388ca4d1c8eff69f6d97bfd2f12c51.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_boys_clothing_trousersjeans_joggerssweatpants%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        new_price: 85.0,
+        new_price: 115.0,
         old_price: 120.5,
       },
       {
@@ -212,7 +212,7 @@ const all_productData = [
         name: "Boys Suit",
         category: "kid",
         image:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F5f%2F83%2F5f83eb1e49a1b4d66bc9bf1fa11ca7d958aa9f59.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        new_price: 85.0,
+        new_price: 65.0,
         old_price: 120.5,
       },
       {
@@ -220,7 +220,7 @@ const all_productData = [
         name: "Boys Cotton Jersey Joggers",
         category: "kid",
         image:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F60%2F35%2F6035d7204f310f012f44b76c77c09bf5c512f5ff.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        new_price: 85.0,
+        new_price: 95.0,
         old_price: 120.5,
       },
       {
@@ -228,7 +228,7 @@ const all_productData = [
         name: "Girls Cotton T-shirts",
         category: "kid",
         image:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa8%2Ff1%2Fa8f1789c927161292ac9be478236928b1a4e1ac4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        new_price: 85.0,
+        new_price: 105.0,
         old_price: 120.5,
       },
       {
@@ -236,7 +236,7 @@ const all_productData = [
         name: "Girls 2-piece T-shirt and Dress Set",
         category: "kid",
         image:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F20%2Fdc%2F20dc273cde7db3b504427510c57579aca48d7328.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        new_price: 85.0,
+        new_price: 88.0,
         old_price: 120.5,
       },
       {
@@ -244,7 +244,7 @@ const all_productData = [
         name: "Extra-soft Joggers",
         category: "kid",
         image:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fd5%2Fc1%2Fd5c1b0687face108047156175ce3cc5a5e08eccb.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_boys_clothing_trousersjeans_joggerssweatpants%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        new_price: 85.0,
+        new_price: 89.0,
         old_price: 120.5,
       },
       {
@@ -252,7 +252,7 @@ const all_productData = [
         name: "Boys 2-piece Sweatsuit",
         category: "kid",
         image:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F04%2F92%2F04921cf6baa2c205ed91775797857e7aa701f10a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/fullscreen]",
-        new_price: 85.0,
+        new_price: 55.0,
         old_price: 120.5,
       },
       {
@@ -260,7 +260,7 @@ const all_productData = [
         name: "Boys Oversized Printed Sweatshirt",
         category: "kid",
         image:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fa3%2Ffb%2Fa3fb0ea0a39f30bda44acd51251ad780db9d1309.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        new_price: 85.0,
+        new_price: 77.0,
         old_price: 120.5,
       },
       {
@@ -268,7 +268,7 @@ const all_productData = [
         name: "Cotton Joggers",
         category: "kid",
         image:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F17%2F36%2F17364db4cba4b45e9e6da1ab2905f0d8e0a9286b.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        new_price: 85.0,
+        new_price: 111.0,
         old_price: 120.5,
       },
       {
@@ -276,7 +276,7 @@ const all_productData = [
         name: "Girls Ribbed Cotton Jersey Tops",
         category: "kid",
         image:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8b%2Fd0%2F8bd0cf1782f678f149ab9c71bb6c4288b92647ed.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        new_price: 85.0,
+        new_price: 109.0,
         old_price: 120.5,
       },
       {
@@ -284,7 +284,7 @@ const all_productData = [
         name: "Girls 2-piece Terry Set",
         category: "kid",
         image:"https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F75%2Fdb%2F75db630fd591f7dea597bd43eef62838380aad57.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
-        new_price: 85.0,
+        new_price: 81.0,
         old_price: 120.5,
       },
       {
